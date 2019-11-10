@@ -1,2 +1,2 @@
 # JustRemind
-Reminder &amp; To Do Tracker
+Reminders &amp; To Do Tracker
